@@ -1,2 +1,2 @@
 # matplotlib_graphs_templates
-contains basic graph plotting techniques using matplotlib-python
+Contains basic graph plotting techniques using matplotlib-python
